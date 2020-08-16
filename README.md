@@ -1,0 +1,1 @@
+# cordova-google-provision-wallet
