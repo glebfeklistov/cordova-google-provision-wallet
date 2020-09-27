@@ -1,0 +1,30 @@
+{
+  "name": "cordova-google-provision",
+  "version": "1.0.3",
+  "description": "This plugin implements Google Pay Push Provisioning API features for card enrollment integration. Lets customers add a bank card to Google Pay from the issuer app by providing the required card details.",
+  "cordova": {
+    "id": "cordova-google-provision",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glebfeklistov/cordova-google-provision.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova",
+    "android",
+    "provision",
+    "google",
+    "plugin"
+  ],
+  "author": "feklistovgleb@gmail.com",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/glebfeklistov/cordova-google-provision/issues"
+  },
+  "homepage": "https://github.com/glebfeklistov/cordova-google-provision"
+}
